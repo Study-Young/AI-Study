@@ -21,3 +21,7 @@ node_modules/
 # Misc
 *.log
 .env
+
+# Adjacent projects (not part of this repo)
+claude-howto/
+../claude-howto
